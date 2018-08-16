@@ -18,7 +18,12 @@ face_recognition (pip install face_recognition)
 
 ## Usage:
 (Make sure the 'test_images' child directory is set up)
-python3 webcam_recognize.py
+
+$pip install dlib
+
+$pip install face_recognition
+
+$python3 webcam_recognize.py
 
 ## Demo:
 {The link is password protected}
