@@ -25,9 +25,5 @@ $pip install face_recognition
 
 $python3 webcam_recognize.py
 
-## Demo:
-{The link is password protected}
-
-https://vimeo.com/285331937
-
-password: InternshipTask@AbsoluteFace.xyz
+## To-Do:
+- Implement a voting system for classification
